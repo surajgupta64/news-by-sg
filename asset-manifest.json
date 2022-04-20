@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Krishnaabanerjee/News-App-by-KB/static/css/main.4f279542.css",
+    "main.js": "/Krishnaabanerjee/News-App-by-KB/static/js/main.a3abbd8f.js",
+    "static/js/787.66a4299e.chunk.js": "/Krishnaabanerjee/News-App-by-KB/static/js/787.66a4299e.chunk.js",
+    "index.html": "/Krishnaabanerjee/News-App-by-KB/index.html",
+    "main.4f279542.css.map": "/Krishnaabanerjee/News-App-by-KB/static/css/main.4f279542.css.map",
+    "main.a3abbd8f.js.map": "/Krishnaabanerjee/News-App-by-KB/static/js/main.a3abbd8f.js.map",
+    "787.66a4299e.chunk.js.map": "/Krishnaabanerjee/News-App-by-KB/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f279542.css",
+    "static/js/main.a3abbd8f.js"
+  ]
+}
